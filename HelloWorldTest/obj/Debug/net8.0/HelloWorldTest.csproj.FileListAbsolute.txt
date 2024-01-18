@@ -1,0 +1,14 @@
+D:\CS120 Work\HelloWorldTest\bin\Debug\net8.0\HelloWorldTest.exe
+D:\CS120 Work\HelloWorldTest\bin\Debug\net8.0\HelloWorldTest.deps.json
+D:\CS120 Work\HelloWorldTest\bin\Debug\net8.0\HelloWorldTest.runtimeconfig.json
+D:\CS120 Work\HelloWorldTest\bin\Debug\net8.0\HelloWorldTest.dll
+D:\CS120 Work\HelloWorldTest\bin\Debug\net8.0\HelloWorldTest.pdb
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.AssemblyInfoInputs.cache
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.AssemblyInfo.cs
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.csproj.CoreCompileInputs.cache
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.dll
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\refint\HelloWorldTest.dll
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.pdb
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\HelloWorldTest.genruntimeconfig.cache
+D:\CS120 Work\HelloWorldTest\obj\Debug\net8.0\ref\HelloWorldTest.dll
